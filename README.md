@@ -16,10 +16,6 @@ Full Stack Developer based in Morocco, open to remote roles worldwide. I build w
 ![Data](assets/stack-data.svg) MySQL · PostgreSQL · H2  
 ![Ops](assets/stack-ops.svg) Docker · GitHub Actions · DigitalOcean · cPanel · Vercel
 
-![Now](assets/label-now.svg)  
-Building [Tricol](https://github.com/FARAJI-Omar/Tricol-API-V2) — supplier orders and FIFO stock  
-Exploring Spring AI and workflow automation  
-Open to full-time remote roles
 
 ## github
 
