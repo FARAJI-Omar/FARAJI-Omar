@@ -1,1 +1,1 @@
-Full Stack Developer — [omarfaraji.me](https://www.omarfaraji.me)
+[Omar Faraji](https://www.omarfaraji.me) — Full Stack Developer · omarfaraji.me
