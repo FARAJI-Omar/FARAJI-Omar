@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44" role="img" aria-label="$ Full Stack Developer · Morocco · open to remote · React · Spring Boot · Laravel">
+  <title>$ Full Stack Developer · Morocco · open to remote · React · Spring Boot · Laravel</title>
+  <style>
+    .l { opacity: 0; animation: show 12s infinite; }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 4s; }
+    .l3 { animation-delay: 8s; }
+    @keyframes show {
+      0%, 29% { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    .c { animation: blink 1s steps(1) infinite; }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .l { animation: none; }
+      .l1 { opacity: 1; }
+      .l2, .l3 { opacity: 0; }
+      .c { animation: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="43" rx="6" fill="#161b22" stroke="#30363d"/>
+  <text x="18" y="27" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#f9a825">$</text>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#e6edf3">
+    <text class="l l1" x="34" y="27">Full Stack Developer<tspan class="c" fill="#f9a825">█</tspan></text>
+    <text class="l l2" x="34" y="27">Morocco · open to remote<tspan class="c" fill="#f9a825">█</tspan></text>
+    <text class="l l3" x="34" y="27">React · Spring Boot · Laravel<tspan class="c" fill="#f9a825">█</tspan></text>
+  </g>
+</svg>
